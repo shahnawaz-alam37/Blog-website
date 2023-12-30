@@ -1,0 +1,38 @@
+[
+  {
+    "id": "dde3f95e-fb76-4f35-b81a-46c5cafe19dd",
+    "blogTitle": "new html tags",
+    "blogTopics": "Technology",
+    "blogHeadline": "fancy and attractive headline",
+    "blogThumbnail": "",
+    "blogText": "hello world",
+    "submiteddate": "Sat Dec 30 2023"
+  },
+  {
+    "id": "7915eb2d-72e6-40af-be2e-90bd266882e4",
+    "blogTitle": "Nodejs and expressjs",
+    "blogTopics": "Technology",
+    "blogHeadline": "Relied upon by more than 17 million developers worldwide, npm is committed to making JavaScript development elegant, productive, and safe.",
+    "blogThumbnail": "",
+    "blogText": "Relied upon by more than 17 million developers worldwide, npm is committed to making JavaScript development elegant, productive, and safe. The free npm Registry has become the center of JavaScript code sharing, and with more than two million packages, the largest software registry in the world. Our other tools and services take the Registry, and the work you do around it, to the next level.",
+    "submiteddate": "Sat Dec 30 2023"
+  },
+  {
+    "id": "15bfb307-5042-4f7f-8dd8-ec01a25da75c",
+    "blogTitle": "abc",
+    "blogTopics": "Science",
+    "blogHeadline": "latest html tags may decrease the use of css",
+    "blogThumbnail": "",
+    "blogText": "Now, when you visit a URL like http://localhost:3000/blog/{blogId}, it will render the view for the specific blog with the corresponding ID. Make sure to handle errors and edge cases based on your application requirements.",
+    "submiteddate": "Sat Dec 30 2023"
+  },
+  {
+    "id": "a6e27788-b1ed-4195-9a4f-020aabbe14c8",
+    "blogTitle": "Mars",
+    "blogTopics": "Science",
+    "blogHeadline": "This article is about the planet. For the deity, see Mars (mythology). For other uses, see Mars (disambiguation). \"Fourth planet\" redirects here. For other systems of numbering planets, see Planet § History and etymology.",
+    "blogThumbnail": "",
+    "blogText": "Mars is the fourth planet and the furthest terrestrial planet from the Sun. The reddish color of its surface is due to finely grained iron(III) oxide dust in the soil, giving it the nickname \"the Red Planet\".[21][22] Mars's radius is second smallest among the planets in the Solar System at 3,389.5 km (2,106 mi). The Martian dichotomy is visible on the surface: on average, the terrain on Mars's northern hemisphere is flatter and lower than its southern hemisphere. Mars has a thin atmosphere made primarily of carbon dioxide, and two irregularly shaped natural satellites, Phobos and Deimos.",
+    "submiteddate": "Sat Dec 30 2023"
+  }
+]

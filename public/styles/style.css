@@ -1,0 +1,21 @@
+body{
+    background-color: #ffffff;
+    padding: 0;
+    margin: 0;
+}
+header{
+    padding-bottom: 1%;
+}
+.foot{
+    background-color: black;
+    color: azure;
+}
+.foot footer ul li a{
+    color: white;
+}
+.foot footer p{
+    color: white;
+}
+footer{
+    margin-bottom: 0%;
+}
